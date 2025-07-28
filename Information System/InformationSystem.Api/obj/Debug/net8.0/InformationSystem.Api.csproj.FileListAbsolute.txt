@@ -1,0 +1,11 @@
+D:\Projects\Information System\InformationSystem.Api\bin\Debug\net8.0\InformationSystem.Api.deps.json
+D:\Projects\Information System\InformationSystem.Api\bin\Debug\net8.0\InformationSystem.Api.dll
+D:\Projects\Information System\InformationSystem.Api\bin\Debug\net8.0\InformationSystem.Api.pdb
+D:\Projects\Information System\InformationSystem.Api\obj\Debug\net8.0\InformationSystem.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Information System\InformationSystem.Api\obj\Debug\net8.0\InformationSystem.Api.AssemblyInfoInputs.cache
+D:\Projects\Information System\InformationSystem.Api\obj\Debug\net8.0\InformationSystem.Api.AssemblyInfo.cs
+D:\Projects\Information System\InformationSystem.Api\obj\Debug\net8.0\InformationSystem.Api.csproj.CoreCompileInputs.cache
+D:\Projects\Information System\InformationSystem.Api\obj\Debug\net8.0\InformationSystem.Api.dll
+D:\Projects\Information System\InformationSystem.Api\obj\Debug\net8.0\refint\InformationSystem.Api.dll
+D:\Projects\Information System\InformationSystem.Api\obj\Debug\net8.0\InformationSystem.Api.pdb
+D:\Projects\Information System\InformationSystem.Api\obj\Debug\net8.0\ref\InformationSystem.Api.dll

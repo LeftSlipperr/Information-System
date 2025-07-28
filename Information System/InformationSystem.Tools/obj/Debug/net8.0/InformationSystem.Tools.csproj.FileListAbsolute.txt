@@ -1,0 +1,12 @@
+D:\Projects\Information System\InformationSystem.Tools\bin\Debug\net8.0\InformationSystem.Tools.deps.json
+D:\Projects\Information System\InformationSystem.Tools\bin\Debug\net8.0\InformationSystem.Tools.dll
+D:\Projects\Information System\InformationSystem.Tools\bin\Debug\net8.0\InformationSystem.Tools.pdb
+D:\Projects\Information System\InformationSystem.Tools\obj\Debug\net8.0\InformationSystem.Tools.csproj.AssemblyReference.cache
+D:\Projects\Information System\InformationSystem.Tools\obj\Debug\net8.0\InformationSystem.Tools.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Information System\InformationSystem.Tools\obj\Debug\net8.0\InformationSystem.Tools.AssemblyInfoInputs.cache
+D:\Projects\Information System\InformationSystem.Tools\obj\Debug\net8.0\InformationSystem.Tools.AssemblyInfo.cs
+D:\Projects\Information System\InformationSystem.Tools\obj\Debug\net8.0\InformationSystem.Tools.csproj.CoreCompileInputs.cache
+D:\Projects\Information System\InformationSystem.Tools\obj\Debug\net8.0\InformationSystem.Tools.dll
+D:\Projects\Information System\InformationSystem.Tools\obj\Debug\net8.0\refint\InformationSystem.Tools.dll
+D:\Projects\Information System\InformationSystem.Tools\obj\Debug\net8.0\InformationSystem.Tools.pdb
+D:\Projects\Information System\InformationSystem.Tools\obj\Debug\net8.0\ref\InformationSystem.Tools.dll

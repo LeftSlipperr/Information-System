@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InformationSystem.Domain", "InformationSystem.Domain\InformationSystem.Domain.csproj", "{45DA30AA-9C13-40D0-BFCA-4BE38D35A768}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InformationSystem.Data", "InformationSystem.Data\InformationSystem.Data.csproj", "{E090BAF7-32F0-4AC3-8632-D20B46416DCB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4C34B408-03E5-4C4E-AC80-3B13193DB15A} = {4C34B408-03E5-4C4E-AC80-3B13193DB15A}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{9CC276A8-E7AC-4405-8427-27BC1FD436F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{AED7DCB1-3B53-4C4F-8D71-EC0F744703C9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InformationSystem.Application", "C:\Users\Admin\source\repos\LeftSlipperr\Information-System\InformationSystem.Application\InformationSystem.Application.csproj", "{4C34B408-03E5-4C4E-AC80-3B13193DB15A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{45DA30AA-9C13-40D0-BFCA-4BE38D35A768} = {45DA30AA-9C13-40D0-BFCA-4BE38D35A768}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{4E015F0E-6282-4735-83B0-7FED1F2BAC33}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{7A197412-FF98-4E82-8E5A-333FCDDEDAB8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InformationSystem.Api", "WebApplication1\InformationSystem.Api.csproj", "{4C49707E-AC0E-44B6-AF51-F2AEFAC4359E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4C34B408-03E5-4C4E-AC80-3B13193DB15A} = {4C34B408-03E5-4C4E-AC80-3B13193DB15A}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InformationSystem.Presentation", "InformationSystem.Presentation\InformationSystem.Presentation.csproj", "{8E130694-10FC-4780-9856-14B858E92D0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45DA30AA-9C13-40D0-BFCA-4BE38D35A768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45DA30AA-9C13-40D0-BFCA-4BE38D35A768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45DA30AA-9C13-40D0-BFCA-4BE38D35A768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45DA30AA-9C13-40D0-BFCA-4BE38D35A768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E090BAF7-32F0-4AC3-8632-D20B46416DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E090BAF7-32F0-4AC3-8632-D20B46416DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E090BAF7-32F0-4AC3-8632-D20B46416DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E090BAF7-32F0-4AC3-8632-D20B46416DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C34B408-03E5-4C4E-AC80-3B13193DB15A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C34B408-03E5-4C4E-AC80-3B13193DB15A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C34B408-03E5-4C4E-AC80-3B13193DB15A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C34B408-03E5-4C4E-AC80-3B13193DB15A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C49707E-AC0E-44B6-AF51-F2AEFAC4359E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C49707E-AC0E-44B6-AF51-F2AEFAC4359E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C49707E-AC0E-44B6-AF51-F2AEFAC4359E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C49707E-AC0E-44B6-AF51-F2AEFAC4359E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E130694-10FC-4780-9856-14B858E92D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E130694-10FC-4780-9856-14B858E92D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E130694-10FC-4780-9856-14B858E92D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E130694-10FC-4780-9856-14B858E92D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{45DA30AA-9C13-40D0-BFCA-4BE38D35A768} = {9CC276A8-E7AC-4405-8427-27BC1FD436F1}
+		{E090BAF7-32F0-4AC3-8632-D20B46416DCB} = {AED7DCB1-3B53-4C4F-8D71-EC0F744703C9}
+		{4C34B408-03E5-4C4E-AC80-3B13193DB15A} = {4E015F0E-6282-4735-83B0-7FED1F2BAC33}
+		{4C49707E-AC0E-44B6-AF51-F2AEFAC4359E} = {AED7DCB1-3B53-4C4F-8D71-EC0F744703C9}
+		{8E130694-10FC-4780-9856-14B858E92D0D} = {7A197412-FF98-4E82-8E5A-333FCDDEDAB8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CA95ECF-1132-4001-BCCA-5F896A5E91DE}
+	EndGlobalSection
+EndGlobal

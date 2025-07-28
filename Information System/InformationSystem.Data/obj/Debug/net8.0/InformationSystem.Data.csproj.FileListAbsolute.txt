@@ -1,0 +1,38 @@
+D:\Projects\Information System\InformationSystem.Data\bin\Debug\net8.0\InformationSystem.Data.deps.json
+D:\Projects\Information System\InformationSystem.Data\bin\Debug\net8.0\InformationSystem.Data.runtimeconfig.json
+D:\Projects\Information System\InformationSystem.Data\bin\Debug\net8.0\InformationSystem.Data.dll
+D:\Projects\Information System\InformationSystem.Data\bin\Debug\net8.0\InformationSystem.Data.pdb
+D:\Projects\Information System\InformationSystem.Data\bin\Debug\net8.0\InformationSystem.Application.dll
+D:\Projects\Information System\InformationSystem.Data\bin\Debug\net8.0\InformationSystem.Domain.dll
+D:\Projects\Information System\InformationSystem.Data\bin\Debug\net8.0\InformationSystem.Domain.pdb
+D:\Projects\Information System\InformationSystem.Data\bin\Debug\net8.0\InformationSystem.Application.pdb
+D:\Projects\Information System\InformationSystem.Data\obj\Debug\net8.0\InformationSystem.Data.csproj.AssemblyReference.cache
+D:\Projects\Information System\InformationSystem.Data\obj\Debug\net8.0\InformationSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Information System\InformationSystem.Data\obj\Debug\net8.0\InformationSystem.Data.AssemblyInfoInputs.cache
+D:\Projects\Information System\InformationSystem.Data\obj\Debug\net8.0\InformationSystem.Data.AssemblyInfo.cs
+D:\Projects\Information System\InformationSystem.Data\obj\Debug\net8.0\InformationSystem.Data.csproj.CoreCompileInputs.cache
+D:\Projects\Information System\InformationSystem.Data\obj\Debug\net8.0\Informat.E7B9C747.Up2Date
+D:\Projects\Information System\InformationSystem.Data\obj\Debug\net8.0\InformationSystem.Data.dll
+D:\Projects\Information System\InformationSystem.Data\obj\Debug\net8.0\refint\InformationSystem.Data.dll
+D:\Projects\Information System\InformationSystem.Data\obj\Debug\net8.0\InformationSystem.Data.pdb
+D:\Projects\Information System\InformationSystem.Data\obj\Debug\net8.0\InformationSystem.Data.genruntimeconfig.cache
+D:\Projects\Information System\InformationSystem.Data\obj\Debug\net8.0\ref\InformationSystem.Data.dll
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Data\bin\Debug\net8.0\InformationSystem.Data.deps.json
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Data\bin\Debug\net8.0\InformationSystem.Data.runtimeconfig.json
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Data\bin\Debug\net8.0\InformationSystem.Data.dll
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Data\bin\Debug\net8.0\InformationSystem.Data.pdb
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Data\bin\Debug\net8.0\InformationSystem.Application.dll
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Data\bin\Debug\net8.0\InformationSystem.Domain.dll
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Data\bin\Debug\net8.0\InformationSystem.Domain.pdb
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Data\bin\Debug\net8.0\InformationSystem.Application.pdb
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Data\obj\Debug\net8.0\InformationSystem.Data.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Data\obj\Debug\net8.0\InformationSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Data\obj\Debug\net8.0\InformationSystem.Data.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Data\obj\Debug\net8.0\InformationSystem.Data.AssemblyInfo.cs
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Data\obj\Debug\net8.0\InformationSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Data\obj\Debug\net8.0\Informat.E7B9C747.Up2Date
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Data\obj\Debug\net8.0\InformationSystem.Data.dll
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Data\obj\Debug\net8.0\refint\InformationSystem.Data.dll
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Data\obj\Debug\net8.0\InformationSystem.Data.pdb
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Data\obj\Debug\net8.0\InformationSystem.Data.genruntimeconfig.cache
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Data\obj\Debug\net8.0\ref\InformationSystem.Data.dll

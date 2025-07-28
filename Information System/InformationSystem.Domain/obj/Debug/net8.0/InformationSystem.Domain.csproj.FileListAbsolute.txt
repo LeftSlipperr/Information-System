@@ -1,0 +1,24 @@
+D:\Projects\Information System\InformationSystem.Domain\bin\Debug\net8.0\InformationSystem.Domain.deps.json
+D:\Projects\Information System\InformationSystem.Domain\bin\Debug\net8.0\InformationSystem.Domain.dll
+D:\Projects\Information System\InformationSystem.Domain\bin\Debug\net8.0\InformationSystem.Domain.pdb
+D:\Projects\Information System\InformationSystem.Domain\obj\Debug\net8.0\InformationSystem.Domain.csproj.AssemblyReference.cache
+D:\Projects\Information System\InformationSystem.Domain\obj\Debug\net8.0\InformationSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Information System\InformationSystem.Domain\obj\Debug\net8.0\InformationSystem.Domain.AssemblyInfoInputs.cache
+D:\Projects\Information System\InformationSystem.Domain\obj\Debug\net8.0\InformationSystem.Domain.AssemblyInfo.cs
+D:\Projects\Information System\InformationSystem.Domain\obj\Debug\net8.0\InformationSystem.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Information System\InformationSystem.Domain\obj\Debug\net8.0\InformationSystem.Domain.dll
+D:\Projects\Information System\InformationSystem.Domain\obj\Debug\net8.0\refint\InformationSystem.Domain.dll
+D:\Projects\Information System\InformationSystem.Domain\obj\Debug\net8.0\InformationSystem.Domain.pdb
+D:\Projects\Information System\InformationSystem.Domain\obj\Debug\net8.0\ref\InformationSystem.Domain.dll
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Domain\bin\Debug\net8.0\InformationSystem.Domain.deps.json
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Domain\bin\Debug\net8.0\InformationSystem.Domain.dll
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Domain\bin\Debug\net8.0\InformationSystem.Domain.pdb
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Domain\obj\Debug\net8.0\InformationSystem.Domain.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Domain\obj\Debug\net8.0\InformationSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Domain\obj\Debug\net8.0\InformationSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Domain\obj\Debug\net8.0\InformationSystem.Domain.AssemblyInfo.cs
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Domain\obj\Debug\net8.0\InformationSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Domain\obj\Debug\net8.0\InformationSystem.Domain.dll
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Domain\obj\Debug\net8.0\refint\InformationSystem.Domain.dll
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Domain\obj\Debug\net8.0\InformationSystem.Domain.pdb
+C:\Users\Admin\Desktop\диплом\inf sys rel\Information System\InformationSystem.Domain\obj\Debug\net8.0\ref\InformationSystem.Domain.dll
